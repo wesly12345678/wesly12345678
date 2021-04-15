@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wesly12345678 from malaysia which currently 22 year old 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning react js working as intern in Finexus Sdn Bhd
 
