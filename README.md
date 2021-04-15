@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at theTunku Abdul Rahman University College.\
-🌱 &nbsp;I'm on track for learning more about React js.\
+🎓 &nbsp;I'm currently studying information technology at the Tunku Abdul Rahman University College.\
+🌱 &nbsp;I'm on track for learning more about React js and working as intern in Finexus Sdn Bhd.\
 ✉️ &nbsp;You can shoot me an email at ericafen68.tyh@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
