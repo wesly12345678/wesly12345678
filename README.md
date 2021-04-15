@@ -2,7 +2,9 @@
 -
 -  👀 I’m interested in web development 
 - 🌱 I’m currently learning react js working as intern in Finexus Sdn Bhd
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<#E34F26>&logoColor=white&color=2bbc8a)
+<!-- Actual text -->
+
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
