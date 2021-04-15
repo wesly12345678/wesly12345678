@@ -36,9 +36,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ericafen68.tyh@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/tey.yonghup"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:ericafen68.tyh@gmail.com"><img src="https://img.shields.io/badge/-ericafen68.tyh@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/tey.yonghup"><img src="https://img.shields.io/badge/-@teyyonghup-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [wesly12345678](https://github.com/wesly12345678)
